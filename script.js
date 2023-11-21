@@ -3,5 +3,5 @@ function feature() {
 }
 
 function newFeature() {
-  console.log('New!');
+  console.log('New Feature!');
 }
