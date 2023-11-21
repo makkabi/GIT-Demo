@@ -7,5 +7,5 @@ function newFeature() {
 }
 
 function specialFeature() {
-  console.log('Special!');
+  console.log('Special Feature!');
 }
